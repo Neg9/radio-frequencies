@@ -1,0 +1,7025 @@
+<?xml version="1.0"?>
+<radio>
+<memories>
+<memory location="0">
+<shortName>K7CH</shortName>
+<longName>K7CH Baw Faw Pea</longName>
+<frequency units="MHz">52.93</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>100</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.7</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="1">
+<shortName>K7NP</shortName>
+<longName>K7NP University </longName>
+<frequency units="MHz">53.01</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.7</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="2">
+<shortName>K7CH</shortName>
+<longName>K7CH South Mtn</longName>
+<frequency units="MHz">53.03</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>100</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.7</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="3">
+<shortName>KC7IYE</shortName>
+<longName>KC7IYE Redmond</longName>
+<frequency units="MHz">53.07</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.7</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="4">
+<shortName>W7UMH</shortName>
+<longName>W7UMH Lyman Hill</longName>
+<frequency units="MHz">53.09</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.7</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="5">
+<shortName>WB7OXJ</shortName>
+<longName>WB7OXJ Shelton</longName>
+<frequency units="MHz">53.09</frequency>
+<squelch id="rtone" type="repeater">
+<tone>110.9</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.7</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="6">
+<shortName>KF7T</shortName>
+<longName>KF7T Everett</longName>
+<frequency units="MHz">53.13</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.7</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="7">
+<shortName>K7CR</shortName>
+<longName>K7CR Tiger Mtn W</longName>
+<frequency units="MHz">53.15</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.7</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="8">
+<shortName>K7HW</shortName>
+<longName>K7HW Tacoma</longName>
+<frequency units="MHz">53.19</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.7</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="9">
+<shortName>NC7Q</shortName>
+<longName>NC7Q Ferndale</longName>
+<frequency units="MHz">53.21</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.7</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="10">
+<shortName>K7TGU</shortName>
+<longName>K7TGU Tiger Mtn </longName>
+<frequency units="MHz">53.23</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>103.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.7</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="11">
+<shortName>N7OEP</shortName>
+<longName>N7OEP Baldi Mtn</longName>
+<frequency units="MHz">53.33</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.7</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="12">
+<shortName>W7SKY</shortName>
+<longName>W7SKY Sultan</longName>
+<frequency units="MHz">53.35</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.7</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="13">
+<shortName>WR7V</shortName>
+<longName>WR7V Blyn Mtn</longName>
+<frequency units="MHz">53.37</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.7</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="14">
+<shortName>W7PFR</shortName>
+<longName>W7PFR Eatonville</longName>
+<frequency units="MHz">53.41</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.7</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="15">
+<shortName>W7NPC</shortName>
+<longName>W7NPC Bainbridge</longName>
+<frequency units="MHz">53.43</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.7</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="16">
+<shortName>W7MBY</shortName>
+<longName>W7MBY Bellingham</longName>
+<frequency units="MHz">53.45</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.7</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="17">
+<shortName>W7SIX</shortName>
+<longName>W7SIX Capitol Pe</longName>
+<frequency units="MHz">53.57</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.7</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="18">
+<shortName>K7OET</shortName>
+<longName>K7OET Cultas Mtn</longName>
+<frequency units="MHz">53.59</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.7</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="19">
+<shortName>W7LMR</shortName>
+<longName>W7LMR Lake Steve</longName>
+<frequency units="MHz">53.65</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.7</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="20">
+<shortName>K6AJV</shortName>
+<longName>K6AJV Vashon Isl</longName>
+<frequency units="MHz">53.79</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.7</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="21">
+<shortName>N9VW</shortName>
+<longName>N9VW Issaquah</longName>
+<frequency units="MHz">53.83</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.7</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="22">
+<shortName>W7SIX</shortName>
+<longName>W7SIX Grass Mtn</longName>
+<frequency units="MHz">53.87</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.7</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="23">
+<shortName>KC7SAR</shortName>
+<longName>KC7SAR Skykomish</longName>
+<frequency units="MHz">145.11</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>123</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="24">
+<shortName>KC7SAR</shortName>
+<longName>KC7SAR Rattlesna</longName>
+<frequency units="MHz">145.11</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>127.3</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="25">
+<shortName>W7PSE</shortName>
+<longName>W7PSE Olympia</longName>
+<frequency units="MHz">145.15</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="26">
+<shortName>W7JCR</shortName>
+<longName>W7JCR Port Towns</longName>
+<frequency units="MHz">145.15</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="27">
+<shortName>NM7E</shortName>
+<longName>NM7E Belfair</longName>
+<frequency units="MHz">145.17</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="28">
+<shortName>NM7R</shortName>
+<longName>NM7R Ocean Park</longName>
+<frequency units="MHz">145.17</frequency>
+<squelch id="rtone" type="repeater">
+<tone>118.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="29">
+<shortName>N7GDE</shortName>
+<longName>N7GDE Lyman Mtn</longName>
+<frequency units="MHz">145.19</frequency>
+<squelch id="rtone" type="repeater">
+<tone>127.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="30">
+<shortName>W7FEL</shortName>
+<longName>W7FEL Forks</longName>
+<frequency units="MHz">145.21</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>100</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="31">
+<shortName>W7DK</shortName>
+<longName>W7DK Tacoma</longName>
+<frequency units="MHz">145.21</frequency>
+<squelch id="rtone" type="repeater">
+<tone>141.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="32">
+<shortName>N3KPU</shortName>
+<longName>N3KPU Graham</longName>
+<frequency units="MHz">145.23</frequency>
+<squelch id="rtone" type="repeater">
+<tone>146.2</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="33">
+<shortName>W7BPD</shortName>
+<longName>W7BPD Sumas</longName>
+<frequency units="MHz">145.23</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="34">
+<shortName>K7DNR</shortName>
+<longName>K7DNR Ashford</longName>
+<frequency units="MHz">145.25</frequency>
+<squelch id="rtone" type="repeater">
+<tone>67</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="35">
+<shortName>W7UVH</shortName>
+<longName>W7UVH South Mtn</longName>
+<frequency units="MHz">145.27</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="36">
+<shortName>NM7R</shortName>
+<longName>NM7R Grayland</longName>
+<frequency units="MHz">145.31</frequency>
+<squelch id="rtone" type="repeater">
+<tone>118.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>118.8</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="37">
+<shortName>KC7IYE</shortName>
+<longName>KC7IYE Redmond</longName>
+<frequency units="MHz">145.31</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>103.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="38">
+<shortName>K7NWS</shortName>
+<longName>K7NWS Tiger Mtn </longName>
+<frequency units="MHz">145.33</frequency>
+<squelch id="rtone" type="repeater">
+<tone>179.9</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="39">
+<shortName>W7ZLJ</shortName>
+<longName>W7ZLJ Olalla</longName>
+<frequency units="MHz">145.35</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="40">
+<shortName>W7AAO</shortName>
+<longName>W7AAO Grass Mtn</longName>
+<frequency units="MHz">145.37</frequency>
+<squelch id="rtone" type="repeater">
+<tone>136.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="41">
+<shortName>W7EOC</shortName>
+<longName>W7EOC Cosmopolis</longName>
+<frequency units="MHz">145.39</frequency>
+<squelch id="rtone" type="repeater">
+<tone>118.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="42">
+<shortName>WA7UHD</shortName>
+<longName>WA7UHD Chehalis</longName>
+<frequency units="MHz">145.43</frequency>
+<squelch id="rtone" type="repeater">
+<tone>110.9</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="43">
+<shortName>KD7WDG</shortName>
+<longName>KD7WDG Silverdal</longName>
+<frequency units="MHz">145.43</frequency>
+<squelch id="rtone" type="repeater">
+<tone>179.9</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="44">
+<shortName>KB7CNN</shortName>
+<longName>KB7CNN Alder</longName>
+<frequency units="MHz">145.45</frequency>
+<squelch id="rtone" type="repeater">
+<tone>110.9</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="45">
+<shortName>W7BU</shortName>
+<longName>W7BU Meglar Mtn</longName>
+<frequency units="MHz">145.45</frequency>
+<squelch id="rtone" type="repeater">
+<tone>118.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="46">
+<shortName>K7CPR</shortName>
+<longName>K7CPR Capitol Pe</longName>
+<frequency units="MHz">145.47</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="47">
+<shortName>K7LWH</shortName>
+<longName>K7LWH Kirkland</longName>
+<frequency units="MHz">145.49</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="48">
+<shortName>K7CEM</shortName>
+<longName>K7CEM Centralia</longName>
+<frequency units="MHz">145.49</frequency>
+<squelch id="rtone" type="repeater">
+<tone>110.9</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="49">
+<shortName>WW7RA</shortName>
+<longName>WW7RA Gold Mtn</longName>
+<frequency units="MHz">146.62</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="50">
+<shortName>KB7CNN</shortName>
+<longName>KB7CNN Tacoma</longName>
+<frequency units="MHz">146.64</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="51">
+<shortName>WA7ST</shortName>
+<longName>WA7ST Seatac</longName>
+<frequency units="MHz">146.66</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="52">
+<shortName>K7HW</shortName>
+<longName>K7HW Mineral</longName>
+<frequency units="MHz">146.68</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>103.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="53">
+<shortName>N7JN</shortName>
+<longName>N7JN Friday Harb</longName>
+<frequency units="MHz">146.7</frequency>
+<squelch id="rtone" type="repeater">
+<tone>131.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="54">
+<shortName>W7EAT</shortName>
+<longName>W7EAT Pack Fores</longName>
+<frequency units="MHz">146.7</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="55">
+<shortName>N7SK</shortName>
+<longName>N7SK Shelton</longName>
+<frequency units="MHz">146.72</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="56">
+<shortName>K7SKW</shortName>
+<longName>K7SKW Lookout Mt</longName>
+<frequency units="MHz">146.74</frequency>
+<squelch id="rtone" type="repeater">
+<tone>127.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="57">
+<shortName>K7KFM</shortName>
+<longName>K7KFM Chehalis</longName>
+<frequency units="MHz">146.74</frequency>
+<squelch id="rtone" type="repeater">
+<tone>110.9</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="58">
+<shortName>K7SKW</shortName>
+<longName>K7SKW Bellingham</longName>
+<frequency units="MHz">146.74</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="59">
+<shortName>W7FEL</shortName>
+<longName>W7FEL Striped Pe</longName>
+<frequency units="MHz">146.76</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>100</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="60">
+<shortName>WA7FW</shortName>
+<longName>WA7FW Federal Wa</longName>
+<frequency units="MHz">146.76</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="61">
+<shortName>WA7DEM</shortName>
+<longName>WA7DEM Lynnwood</longName>
+<frequency units="MHz">146.78</frequency>
+<squelch id="rtone" type="repeater">
+<tone>162.2</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>162.2</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="62">
+<shortName>WC7I</shortName>
+<longName>WC7I Lacey</longName>
+<frequency units="MHz">146.8</frequency>
+<squelch id="rtone" type="repeater">
+<tone>97.4</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="63">
+<shortName>W7UFI</shortName>
+<longName>W7UFI Lynnwood</longName>
+<frequency units="MHz">146.8</frequency>
+<squelch id="rtone" type="repeater">
+<tone>136.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="64">
+<shortName>K7LED</shortName>
+<longName>K7LED Tiger Mtn </longName>
+<frequency units="MHz">146.82</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="65">
+<shortName>W7RDR</shortName>
+<longName>W7RDR Ilwaco</longName>
+<frequency units="MHz">146.86</frequency>
+<squelch id="rtone" type="repeater">
+<tone>118.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="66">
+<shortName>W7AVM</shortName>
+<longName>W7AVM Coupeville</longName>
+<frequency units="MHz">146.86</frequency>
+<squelch id="rtone" type="repeater">
+<tone>127.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="67">
+<shortName>W7ZA</shortName>
+<longName>W7ZA Saddle Mtn</longName>
+<frequency units="MHz">146.9</frequency>
+<squelch id="rtone" type="repeater">
+<tone>88.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="68">
+<shortName>W7SRZ</shortName>
+<longName>W7SRZ Seattle</longName>
+<frequency units="MHz">146.9</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="69">
+<shortName>WA7DEM</shortName>
+<longName>WA7DEM Granite F</longName>
+<frequency units="MHz">146.92</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>123</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="70">
+<shortName>K7HW</shortName>
+<longName>K7HW Tacoma</longName>
+<frequency units="MHz">146.94</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="71">
+<shortName>WA7ARC</shortName>
+<longName>WA7ARC Neilton</longName>
+<frequency units="MHz">146.96</frequency>
+<squelch id="rtone" type="repeater">
+<tone>203.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="72">
+<shortName>WW7PSR</shortName>
+<longName>WW7PSR Seattle</longName>
+<frequency units="MHz">146.96</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="73">
+<shortName>K7MMI</shortName>
+<longName>K7MMI Baldi Mtn</longName>
+<frequency units="MHz">146.98</frequency>
+<squelch id="rtone" type="repeater">
+<tone>131.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>131.8</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="74">
+<shortName>W7DX</shortName>
+<longName>W7DX Seattle</longName>
+<frequency units="MHz">147</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="75">
+<shortName>NM7R</shortName>
+<longName>NM7R Cathlamet</longName>
+<frequency units="MHz">147.02</frequency>
+<squelch id="rtone" type="repeater">
+<tone>118.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="76">
+<shortName>W7TED</shortName>
+<longName>W7TED Tacoma</longName>
+<frequency units="MHz">147.02</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="77">
+<shortName>WA7FW</shortName>
+<longName>WA7FW Federal Wa</longName>
+<frequency units="MHz">147.04</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="78">
+<shortName>WA7UHD</shortName>
+<longName>WA7UHD Baw Faw P</longName>
+<frequency units="MHz">147.06</frequency>
+<squelch id="rtone" type="repeater">
+<tone>110.9</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="79">
+<shortName>W7WWI</shortName>
+<longName>W7WWI Cougar Mtn</longName>
+<frequency units="MHz">147.08</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="80">
+<shortName>KC7RAS</shortName>
+<longName>KC7RAS Cougar</longName>
+<frequency units="MHz">147.1</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="81">
+<shortName>N7EHP</shortName>
+<longName>N7EHP Tumwater</longName>
+<frequency units="MHz">147.12</frequency>
+<squelch id="rtone" type="repeater">
+<tone>173.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="82">
+<shortName>K7EK</shortName>
+<longName>K7EK Baldi Mtn</longName>
+<frequency units="MHz">147.14</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>123</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="83">
+<shortName>W7MIR</shortName>
+<longName>W7MIR Mercer Isl</longName>
+<frequency units="MHz">147.16</frequency>
+<squelch id="rtone" type="repeater">
+<tone>146.2</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="84">
+<shortName>K7SKW</shortName>
+<longName>K7SKW King Mtn</longName>
+<frequency units="MHz">147.16</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="85">
+<shortName>W7ZA</shortName>
+<longName>W7ZA Aberdeen</longName>
+<frequency units="MHz">147.16</frequency>
+<squelch id="rtone" type="repeater">
+<tone>88.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="86">
+<shortName>WA7LAW</shortName>
+<longName>WA7LAW Bakerview</longName>
+<frequency units="MHz">147.18</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="87">
+<shortName>NM7R</shortName>
+<longName>NM7R Megler</longName>
+<frequency units="MHz">147.18</frequency>
+<squelch id="rtone" type="repeater">
+<tone>82.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="88">
+<shortName>W7AVM</shortName>
+<longName>W7AVM Langley</longName>
+<frequency units="MHz">147.22</frequency>
+<squelch id="rtone" type="repeater">
+<tone>127.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="89">
+<shortName>K7SYE</shortName>
+<longName>K7SYE Auburn</longName>
+<frequency units="MHz">147.24</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="90">
+<shortName>KA7DNK</shortName>
+<longName>KA7DNK Raymond</longName>
+<frequency units="MHz">147.24</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="91">
+<shortName>KF7NPL</shortName>
+<longName>KF7NPL Maple Val</longName>
+<frequency units="MHz">147.26</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="92">
+<shortName>W7DG</shortName>
+<longName>W7DG Longview</longName>
+<frequency units="MHz">147.26</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="93">
+<shortName>W7DK</shortName>
+<longName>W7DK Tacoma</longName>
+<frequency units="MHz">147.28</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="94">
+<shortName>K7PP</shortName>
+<longName>K7PP Mt Octopus</longName>
+<frequency units="MHz">147.28</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="95">
+<shortName>W7DG</shortName>
+<longName>W7DG Woodland</longName>
+<frequency units="MHz">147.3</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="96">
+<shortName>WB7DOB</shortName>
+<longName>WB7DOB Enumclaw</longName>
+<frequency units="MHz">147.3</frequency>
+<squelch id="rtone" type="repeater">
+<tone>88.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="97">
+<shortName>K7CST</shortName>
+<longName>K7CST Kent</longName>
+<frequency units="MHz">147.32</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>103.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="98">
+<shortName>K6RFK</shortName>
+<longName>K6RFK Woodinvill</longName>
+<frequency units="MHz">147.34</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="99">
+<shortName>NM7R</shortName>
+<longName>NM7R South Bend</longName>
+<frequency units="MHz">147.34</frequency>
+<squelch id="rtone" type="repeater">
+<tone>82.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="100">
+<shortName>W7PIG</shortName>
+<longName>W7PIG Camano Isl</longName>
+<frequency units="MHz">147.36</frequency>
+<squelch id="rtone" type="repeater">
+<tone>127.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>127.3</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="101">
+<shortName>NT7H</shortName>
+<longName>NT7H Olympia</longName>
+<frequency units="MHz">147.36</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="102">
+<shortName>W7DK</shortName>
+<longName>W7DK Tenino</longName>
+<frequency units="MHz">147.38</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">0.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="103">
+<shortName>KF7VUR</shortName>
+<longName>KF7VUR Lyman Mtn</longName>
+<frequency units="MHz">147.4375</frequency>
+<squelch id="rtone" type="repeater">
+<tone>88.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<duplex>negative</duplex>
+<offset units="MHz">1</offset>
+<mode>NFM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="104">
+<shortName>W7MBY</shortName>
+<longName>W7MBY Lyman Hill</longName>
+<frequency units="MHz">223.86</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="105">
+<shortName>W7PIG</shortName>
+<longName>W7PIG Camano Isl</longName>
+<frequency units="MHz">223.88</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="106">
+<shortName>KA7AEF</shortName>
+<longName>KA7AEF Carnation</longName>
+<frequency units="MHz">223.9</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="107">
+<shortName>WB7DOB</shortName>
+<longName>WB7DOB Enumclaw</longName>
+<frequency units="MHz">223.92</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>103.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="108">
+<shortName>N7NW</shortName>
+<longName>N7NW Tiger Mtn E</longName>
+<frequency units="MHz">223.98</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="109">
+<shortName>N7XAC</shortName>
+<longName>N7XAC Ko Peak</longName>
+<frequency units="MHz">224.04</frequency>
+<squelch id="rtone" type="repeater">
+<tone>118.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="110">
+<shortName>W6MPD</shortName>
+<longName>W6MPD Port Angel</longName>
+<frequency units="MHz">224.06</frequency>
+<squelch id="rtone" type="repeater">
+<tone>107.2</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="111">
+<shortName>W7WRG</shortName>
+<longName>W7WRG Capitol Pe</longName>
+<frequency units="MHz">224.08</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="112">
+<shortName>K7MJ</shortName>
+<longName>K7MJ Monroe</longName>
+<frequency units="MHz">224.1</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="113">
+<shortName>K7LED</shortName>
+<longName>K7LED Tiger Mtn </longName>
+<frequency units="MHz">224.12</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="114">
+<shortName>W7DG</shortName>
+<longName>W7DG Longview</longName>
+<frequency units="MHz">224.14</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="115">
+<shortName>NC7Q</shortName>
+<longName>NC7Q Bellingham</longName>
+<frequency units="MHz">224.16</frequency>
+<squelch id="rtone" type="repeater">
+<tone>156.7</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="116">
+<shortName>W7EAT</shortName>
+<longName>W7EAT Graham</longName>
+<frequency units="MHz">224.18</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="117">
+<shortName>WA7FUS</shortName>
+<longName>WA7FUS Brier</longName>
+<frequency units="MHz">224.22</frequency>
+<squelch id="rtone" type="repeater">
+<tone>77</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="118">
+<shortName>WA7FUS</shortName>
+<longName>WA7FUS Lake Fore</longName>
+<frequency units="MHz">224.22</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="119">
+<shortName>N7NFY</shortName>
+<longName>N7NFY Blyn Mtn</longName>
+<frequency units="MHz">224.24</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="120">
+<shortName>NM7E</shortName>
+<longName>NM7E Belfair</longName>
+<frequency units="MHz">224.26</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="121">
+<shortName>K7NWS</shortName>
+<longName>K7NWS Tiger Mtn </longName>
+<frequency units="MHz">224.34</frequency>
+<squelch id="rtone" type="repeater">
+<tone>110.9</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="122">
+<shortName>K7LWH</shortName>
+<longName>K7LWH Kirkland</longName>
+<frequency units="MHz">224.36</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="123">
+<shortName>WA7DEM</shortName>
+<longName>WA7DEM Marysvill</longName>
+<frequency units="MHz">224.38</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="124">
+<shortName>WA6PMX</shortName>
+<longName>WA6PMX Bainbridg</longName>
+<frequency units="MHz">224.42</frequency>
+<squelch id="rtone" type="repeater">
+<tone>88.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="125">
+<shortName>NT7H</shortName>
+<longName>NT7H Crawford Mt</longName>
+<frequency units="MHz">224.46</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="126">
+<shortName>N7JN</shortName>
+<longName>N7JN Mt Constitu</longName>
+<frequency units="MHz">224.48</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="127">
+<shortName>K7HW</shortName>
+<longName>K7HW Tacoma</longName>
+<frequency units="MHz">224.52</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="128">
+<shortName>WA6MPG</shortName>
+<longName>WA6MPG Mt Consti</longName>
+<frequency units="MHz">224.54</frequency>
+<squelch id="rtone" type="repeater">
+<tone>67</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="129">
+<shortName>W7WRG</shortName>
+<longName>W7WRG Buck Mtn</longName>
+<frequency units="MHz">224.58</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="130">
+<shortName>W7UFI</shortName>
+<longName>W7UFI Bremerton</longName>
+<frequency units="MHz">224.66</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="131">
+<shortName>W7SRZ</shortName>
+<longName>W7SRZ Seattle</longName>
+<frequency units="MHz">224.68</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="132">
+<shortName>WB7DOB</shortName>
+<longName>WB7DOB Enumclaw</longName>
+<frequency units="MHz">224.76</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>103.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="133">
+<shortName>N7IPB</shortName>
+<longName>N7IPB Lyman Hill</longName>
+<frequency units="MHz">224.78</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="134">
+<shortName>NM7R</shortName>
+<longName>NM7R South Bend</longName>
+<frequency units="MHz">224.82</frequency>
+<squelch id="rtone" type="repeater">
+<tone>82.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>82.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="135">
+<shortName>N7FYU</shortName>
+<longName>N7FYU King Mtn</longName>
+<frequency units="MHz">224.86</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="136">
+<shortName>KA7DNK</shortName>
+<longName>KA7DNK Raymond</longName>
+<frequency units="MHz">224.86</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="137">
+<shortName>WA6MPG</shortName>
+<longName>WA6MPG Mt Consti</longName>
+<frequency units="MHz">224.98</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">1.6</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="138">
+<shortName>K7SLB</shortName>
+<longName>K7SLB Bothell</longName>
+<frequency units="MHz">440.05</frequency>
+<squelch id="rtone" type="repeater">
+<tone>110.9</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="139">
+<shortName>N7OEP</shortName>
+<longName>N7OEP Enumclaw</longName>
+<frequency units="MHz">440.075</frequency>
+<squelch id="rtone" type="repeater">
+<tone>107.2</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="140">
+<shortName>K7SLB</shortName>
+<longName>K7SLB Seattle</longName>
+<frequency units="MHz">440.1</frequency>
+<squelch id="rtone" type="repeater">
+<tone>110.9</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="141">
+<shortName>KF7AKK</shortName>
+<longName>KF7AKK Port Orch</longName>
+<frequency units="MHz">440.1</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="142">
+<shortName>W7MIR</shortName>
+<longName>W7MIR Mercer Isl</longName>
+<frequency units="MHz">440.15</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="143">
+<shortName>WR7HE</shortName>
+<longName>WR7HE Olalla</longName>
+<frequency units="MHz">440.225</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="144">
+<shortName>N9VW</shortName>
+<longName>N9VW Issaquah</longName>
+<frequency units="MHz">440.25</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="145">
+<shortName>KC7ONX</shortName>
+<longName>KC7ONX Shoreline</longName>
+<frequency units="MHz">440.3</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="146">
+<shortName>W7BPD</shortName>
+<longName>W7BPD Sumas Mtn</longName>
+<frequency units="MHz">440.375</frequency>
+<squelch id="rtone" type="repeater">
+<tone>131.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>131.8</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="147">
+<shortName>WA7DEM</shortName>
+<longName>WA7DEM Clinton</longName>
+<frequency units="MHz">440.375</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>103.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="148">
+<shortName>KC7SQB</shortName>
+<longName>KC7SQB Covington</longName>
+<frequency units="MHz">440.4</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>100</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="149">
+<shortName>N7XCG</shortName>
+<longName>N7XCG Arlington</longName>
+<frequency units="MHz">440.4</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="150">
+<shortName>WA6PMX</shortName>
+<longName>WA6PMX Bainbridg</longName>
+<frequency units="MHz">440.45</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="151">
+<shortName>W7WRG</shortName>
+<longName>W7WRG Capitol Pe</longName>
+<frequency units="MHz">440.5</frequency>
+<squelch id="rtone" type="repeater">
+<tone>110.9</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="152">
+<shortName>W7ACS</shortName>
+<longName>W7ACS Seattle</longName>
+<frequency units="MHz">440.525</frequency>
+<squelch id="rtone" type="repeater">
+<tone>141.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="153">
+<shortName>W6TOZ</shortName>
+<longName>W6TOZ Lacey</longName>
+<frequency units="MHz">440.55</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="154">
+<shortName>W7DK</shortName>
+<longName>W7DK Tacoma</longName>
+<frequency units="MHz">440.625</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="155">
+<shortName>K7CH</shortName>
+<longName>K7CH Baw Faw Pea</longName>
+<frequency units="MHz">440.65</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>100</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="156">
+<shortName>NM7R</shortName>
+<longName>NM7R Naselle Rid</longName>
+<frequency units="MHz">440.675</frequency>
+<squelch id="rtone" type="repeater">
+<tone>118.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>118.8</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="157">
+<shortName>N6OBY</shortName>
+<longName>N6OBY Redmond</longName>
+<frequency units="MHz">440.675</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="158">
+<shortName>N6OBY</shortName>
+<longName>N6OBY Redmond</longName>
+<frequency units="MHz">440.675</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="159">
+<shortName>AH6EZ</shortName>
+<longName>AH6EZ Marrowston</longName>
+<frequency units="MHz">440.725</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="160">
+<shortName>W7PIG</shortName>
+<longName>W7PIG Camano Isl</longName>
+<frequency units="MHz">441.05</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="161">
+<shortName>K7LWH</shortName>
+<longName>K7LWH Kirkland</longName>
+<frequency units="MHz">441.075</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="162">
+<shortName>KC7IYE</shortName>
+<longName>KC7IYE Bellevue</longName>
+<frequency units="MHz">441.1</frequency>
+<squelch id="rtone" type="repeater">
+<tone>156.7</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="163">
+<shortName>WB0CZA</shortName>
+<longName>WB0CZA Buck Mtn</longName>
+<frequency units="MHz">441.125</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="164">
+<shortName>WB0CZA</shortName>
+<longName>WB0CZA Maynard H</longName>
+<frequency units="MHz">441.125</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="165">
+<shortName>KG7QPU</shortName>
+<longName>KG7QPU Snohomish</longName>
+<frequency units="MHz">441.15</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>123</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="166">
+<shortName>AA7SS</shortName>
+<longName>AA7SS Bremerton</longName>
+<frequency units="MHz">441.175</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="167">
+<shortName>K7PP</shortName>
+<longName>K7PP Gold Mtn</longName>
+<frequency units="MHz">441.2</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="168">
+<shortName>K7SRG</shortName>
+<longName>K7SRG Gold Mtn</longName>
+<frequency units="MHz">441.25</frequency>
+<squelch id="rtone" type="repeater">
+<tone>94.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="169">
+<shortName>W7LOR</shortName>
+<longName>W7LOR Poulsbo</longName>
+<frequency units="MHz">441.275</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="170">
+<shortName>K7EK</shortName>
+<longName>K7EK Lakewood</longName>
+<frequency units="MHz">441.375</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="171">
+<shortName>NT7H</shortName>
+<longName>NT7H Crawford Mt</longName>
+<frequency units="MHz">441.4</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="172">
+<shortName>KC7IGT</shortName>
+<longName>KC7IGT Renton</longName>
+<frequency units="MHz">441.45</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="173">
+<shortName>K7FDF</shortName>
+<longName>K7FDF Renton</longName>
+<frequency units="MHz">441.475</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="174">
+<shortName>W7WWI</shortName>
+<longName>W7WWI Cougar Mtn</longName>
+<frequency units="MHz">441.55</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="175">
+<shortName>W6AV</shortName>
+<longName>W6AV Port Orchar</longName>
+<frequency units="MHz">441.575</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>100</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="176">
+<shortName>W6QC</shortName>
+<longName>W6QC Roche Harbo</longName>
+<frequency units="MHz">441.6</frequency>
+<squelch id="rtone" type="repeater">
+<tone>131.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="177">
+<shortName>W7TWA</shortName>
+<longName>W7TWA Baldi Mtn</longName>
+<frequency units="MHz">441.625</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="178">
+<shortName>N7NFY</shortName>
+<longName>N7NFY Rattlesnak</longName>
+<frequency units="MHz">441.65</frequency>
+<squelch id="rtone" type="repeater">
+<tone>141.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="179">
+<shortName>N7XAC</shortName>
+<longName>N7XAC Ko Peak</longName>
+<frequency units="MHz">441.675</frequency>
+<squelch id="rtone" type="repeater">
+<tone>118.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="180">
+<shortName>W7PSE</shortName>
+<longName>W7PSE Baldi Mtn</longName>
+<frequency units="MHz">441.7</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="181">
+<shortName>W7PSE</shortName>
+<longName>W7PSE Mt Erie</longName>
+<frequency units="MHz">441.725</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="182">
+<shortName>W7PSE</shortName>
+<longName>W7PSE Green Mtn</longName>
+<frequency units="MHz">441.75</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="183">
+<shortName>W7PSE</shortName>
+<longName>W7PSE Rattlesnak</longName>
+<frequency units="MHz">441.775</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="184">
+<shortName>W7AW</shortName>
+<longName>W7AW Seattle</longName>
+<frequency units="MHz">441.8</frequency>
+<squelch id="rtone" type="repeater">
+<tone>141.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="185">
+<shortName>KE7GFZ</shortName>
+<longName>KE7GFZ Cougar Mt</longName>
+<frequency units="MHz">441.825</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="186">
+<shortName>N6TJQ</shortName>
+<longName>N6TJQ Fall City</longName>
+<frequency units="MHz">441.85</frequency>
+<squelch id="rtone" type="repeater">
+<tone>203.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="187">
+<shortName>WC7T</shortName>
+<longName>WC7T Everett</longName>
+<frequency units="MHz">441.875</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>103.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="188">
+<shortName>KF6VTA</shortName>
+<longName>KF6VTA Auburn</longName>
+<frequency units="MHz">441.9</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="189">
+<shortName>W7UVH</shortName>
+<longName>W7UVH South Mtn</longName>
+<frequency units="MHz">441.925</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="190">
+<shortName>N7FYU</shortName>
+<longName>N7FYU Bellingham</longName>
+<frequency units="MHz">441.925</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="191">
+<shortName>W7WRG</shortName>
+<longName>W7WRG Buck Mtn</longName>
+<frequency units="MHz">441.95</frequency>
+<squelch id="rtone" type="repeater">
+<tone>131.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="192">
+<shortName>K7FDF</shortName>
+<longName>K7FDF Renton</longName>
+<frequency units="MHz">441.975</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="193">
+<shortName>K7SKW</shortName>
+<longName>K7SKW Mt Constit</longName>
+<frequency units="MHz">442</frequency>
+<squelch id="rtone" type="repeater">
+<tone>110.9</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="194">
+<shortName>WA7DEM</shortName>
+<longName>WA7DEM Lake Fore</longName>
+<frequency units="MHz">442</frequency>
+<squelch id="rtone" type="repeater">
+<tone>141.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>141.3</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="195">
+<shortName>W7WWI</shortName>
+<longName>W7WWI Tiger Mtn </longName>
+<frequency units="MHz">442.025</frequency>
+<squelch id="rtone" type="repeater">
+<tone>110.9</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="196">
+<shortName>K7CEM</shortName>
+<longName>K7CEM Centralia</longName>
+<frequency units="MHz">442.05</frequency>
+<squelch id="rtone" type="repeater">
+<tone>110.9</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="197">
+<shortName>KO6I</shortName>
+<longName>KO6I Sequim</longName>
+<frequency units="MHz">442.05</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="198">
+<shortName>K7NWS</shortName>
+<longName>K7NWS Tiger Mtn </longName>
+<frequency units="MHz">442.075</frequency>
+<squelch id="rtone" type="repeater">
+<tone>110.9</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="199">
+<shortName>KC7EQO</shortName>
+<longName>KC7EQO Sequim</longName>
+<frequency units="MHz">442.1</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="200">
+<shortName>N3EG</shortName>
+<longName>N3EG Longview</longName>
+<frequency units="MHz">442.125</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="201">
+<shortName>KG7OI</shortName>
+<longName>KG7OI Sammamish</longName>
+<frequency units="MHz">442.125</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="202">
+<shortName>KB7IEU</shortName>
+<longName>KB7IEU Raymond</longName>
+<frequency units="MHz">442.15</frequency>
+<squelch id="rtone" type="repeater">
+<tone>127.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="203">
+<shortName>KF7BJI</shortName>
+<longName>KF7BJI Rattlesna</longName>
+<frequency units="MHz">442.15</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>103.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="204">
+<shortName>W7EAR</shortName>
+<longName>W7EAR Everett</longName>
+<frequency units="MHz">442.175</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="205">
+<shortName>WA6PMX</shortName>
+<longName>WA6PMX Poulsbo</longName>
+<frequency units="MHz">442.2</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="206">
+<shortName>W7KWS</shortName>
+<longName>W7KWS Kingston</longName>
+<frequency units="MHz">442.225</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>100</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="207">
+<shortName>NC7Q</shortName>
+<longName>NC7Q Lookout Mtn</longName>
+<frequency units="MHz">442.25</frequency>
+<squelch id="rtone" type="repeater">
+<tone>156.7</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="208">
+<shortName>K7DDK</shortName>
+<longName>K7DDK Raven Roos</longName>
+<frequency units="MHz">442.275</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="209">
+<shortName>K7MMI</shortName>
+<longName>K7MMI Cougar Mtn</longName>
+<frequency units="MHz">442.325</frequency>
+<squelch id="rtone" type="repeater">
+<tone>107.2</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="210">
+<shortName>K7EK</shortName>
+<longName>K7EK Graham</longName>
+<frequency units="MHz">442.35</frequency>
+<squelch id="rtone" type="repeater">
+<tone>141.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="211">
+<shortName>K7NP</shortName>
+<longName>K7NP University </longName>
+<frequency units="MHz">442.375</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="212">
+<shortName>W7MBY</shortName>
+<longName>W7MBY Lyman Mtn</longName>
+<frequency units="MHz">442.4</frequency>
+<squelch id="rtone" type="repeater">
+<tone>107.2</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="213">
+<shortName>W7PSE</shortName>
+<longName>W7PSE Maynard Hi</longName>
+<frequency units="MHz">442.425</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="214">
+<shortName>W7TED</shortName>
+<longName>W7TED Tacoma</longName>
+<frequency units="MHz">442.45</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="215">
+<shortName>WC7I</shortName>
+<longName>WC7I Lacey</longName>
+<frequency units="MHz">442.475</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="216">
+<shortName>WR7V</shortName>
+<longName>WR7V Port Ludlow</longName>
+<frequency units="MHz">442.525</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="217">
+<shortName>WA7HJR</shortName>
+<longName>WA7HJR Bothell</longName>
+<frequency units="MHz">442.55</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="218">
+<shortName>K7DNR</shortName>
+<longName>K7DNR Ashford</longName>
+<frequency units="MHz">442.575</frequency>
+<squelch id="rtone" type="repeater">
+<tone>141.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="219">
+<shortName>K7DNR</shortName>
+<longName>K7DNR Tiger Mtn </longName>
+<frequency units="MHz">442.6</frequency>
+<squelch id="rtone" type="repeater">
+<tone>127.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="220">
+<shortName>K7EK</shortName>
+<longName>K7EK Baldi Mtn</longName>
+<frequency units="MHz">442.625</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="221">
+<shortName>WW7RA</shortName>
+<longName>WW7RA Gold Mtn</longName>
+<frequency units="MHz">442.65</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="222">
+<shortName>W7MB</shortName>
+<longName>W7MB Darrington</longName>
+<frequency units="MHz">442.675</frequency>
+<squelch id="rtone" type="repeater">
+<tone>127.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="223">
+<shortName>NM7R</shortName>
+<longName>NM7R South Bend</longName>
+<frequency units="MHz">442.675</frequency>
+<squelch id="rtone" type="repeater">
+<tone>118.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="224">
+<shortName>WR7DS</shortName>
+<longName>WR7DS Mill Creek</longName>
+<frequency units="MHz">442.725</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>125</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="225">
+<shortName>WW7CH</shortName>
+<longName>WW7CH Eatonville</longName>
+<frequency units="MHz">442.725</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>103.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="226">
+<shortName>KE7YYD</shortName>
+<longName>KE7YYD Madigan A</longName>
+<frequency units="MHz">442.75</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>100</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="227">
+<shortName>K6RFK</shortName>
+<longName>K6RFK Woodinvill</longName>
+<frequency units="MHz">442.775</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="228">
+<shortName>N7NFY</shortName>
+<longName>N7NFY Sequim</longName>
+<frequency units="MHz">442.8</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="229">
+<shortName>WB7DFV</shortName>
+<longName>WB7DFV Kalama</longName>
+<frequency units="MHz">442.825</frequency>
+<squelch id="rtone" type="repeater">
+<tone>131.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="230">
+<shortName>NC7Q</shortName>
+<longName>NC7Q Ferndale</longName>
+<frequency units="MHz">442.825</frequency>
+<squelch id="rtone" type="repeater">
+<tone>156.7</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="231">
+<shortName>W7AUX</shortName>
+<longName>W7AUX Shoreline</longName>
+<frequency units="MHz">442.825</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="232">
+<shortName>K7MYR</shortName>
+<longName>K7MYR Buckley</longName>
+<frequency units="MHz">442.85</frequency>
+<squelch id="rtone" type="repeater">
+<tone>141.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="233">
+<shortName>W7ACS</shortName>
+<longName>W7ACS Seattle</longName>
+<frequency units="MHz">442.875</frequency>
+<squelch id="rtone" type="repeater">
+<tone>141.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="234">
+<shortName>WA7FW</shortName>
+<longName>WA7FW Federal Wa</longName>
+<frequency units="MHz">442.95</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="235">
+<shortName>WA7DEM</shortName>
+<longName>WA7DEM Clearview</longName>
+<frequency units="MHz">442.975</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="236">
+<shortName>W7ACS</shortName>
+<longName>W7ACS Seattle</longName>
+<frequency units="MHz">443.025</frequency>
+<squelch id="rtone" type="repeater">
+<tone>141.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="237">
+<shortName>WA7LDS</shortName>
+<longName>WA7LDS Buckley</longName>
+<frequency units="MHz">443.025</frequency>
+<squelch id="rtone" type="repeater">
+<tone>107.2</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="238">
+<shortName>N7MTC</shortName>
+<longName>N7MTC Bremerton</longName>
+<frequency units="MHz">443.05</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="239">
+<shortName>KC7CKO</shortName>
+<longName>KC7CKO Olympia</longName>
+<frequency units="MHz">443.075</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="240">
+<shortName>WA7ST</shortName>
+<longName>WA7ST Seatac</longName>
+<frequency units="MHz">443.1</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>103.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="241">
+<shortName>K7SLB</shortName>
+<longName>K7SLB Monroe</longName>
+<frequency units="MHz">443.125</frequency>
+<squelch id="rtone" type="repeater">
+<tone>110.9</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="242">
+<shortName>N7EHP</shortName>
+<longName>N7EHP University</longName>
+<frequency units="MHz">443.15</frequency>
+<squelch id="rtone" type="repeater">
+<tone>173.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="243">
+<shortName>N7OEP</shortName>
+<longName>N7OEP Enumclaw</longName>
+<frequency units="MHz">443.175</frequency>
+<squelch id="rtone" type="repeater">
+<tone>107.2</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="244">
+<shortName>K7MJ</shortName>
+<longName>K7MJ Monroe</longName>
+<frequency units="MHz">443.225</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="245">
+<shortName>N7SK</shortName>
+<longName>N7SK Shelton</longName>
+<frequency units="MHz">443.25</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="246">
+<shortName>KE7GFZ</shortName>
+<longName>KE7GFZ Duvall</longName>
+<frequency units="MHz">443.25</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="247">
+<shortName>AB7F</shortName>
+<longName>AB7F Chehalis</longName>
+<frequency units="MHz">443.275</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="248">
+<shortName>KJ1U</shortName>
+<longName>KJ1U Point Rober</longName>
+<frequency units="MHz">443.3</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="249">
+<shortName>K7KG</shortName>
+<longName>K7KG Tiger Mtn E</longName>
+<frequency units="MHz">443.3</frequency>
+<squelch id="rtone" type="repeater">
+<tone>156.7</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="250">
+<shortName>N6OBY</shortName>
+<longName>N6OBY Tiger Mtn </longName>
+<frequency units="MHz">443.325</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="251">
+<shortName>K7CST</shortName>
+<longName>K7CST Kent</longName>
+<frequency units="MHz">443.35</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="252">
+<shortName>K7PP</shortName>
+<longName>K7PP Cougar Mtn</longName>
+<frequency units="MHz">443.4</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="253">
+<shortName>WO7O</shortName>
+<longName>WO7O Quilcene</longName>
+<frequency units="MHz">443.425</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="254">
+<shortName>K7KFM</shortName>
+<longName>K7KFM Chehalis</longName>
+<frequency units="MHz">443.45</frequency>
+<squelch id="rtone" type="repeater">
+<tone>110.9</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="255">
+<shortName>N7JN</shortName>
+<longName>N7JN San Juan Is</longName>
+<frequency units="MHz">443.45</frequency>
+<squelch id="rtone" type="repeater">
+<tone>131.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="256">
+<shortName>KD7KAB</shortName>
+<longName>KD7KAB Lopez Isl</longName>
+<frequency units="MHz">443.475</frequency>
+<squelch id="rtone" type="repeater">
+<tone>162.2</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="257">
+<shortName>W7ACS</shortName>
+<longName>W7ACS Seattle</longName>
+<frequency units="MHz">443.475</frequency>
+<squelch id="rtone" type="repeater">
+<tone>141.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="258">
+<shortName>W7VMI</shortName>
+<longName>W7VMI Vashon Isl</longName>
+<frequency units="MHz">443.5</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="259">
+<shortName>WB7DPF</shortName>
+<longName>WB7DPF Capitol P</longName>
+<frequency units="MHz">443.525</frequency>
+<squelch id="rtone" type="repeater">
+<tone>173.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="260">
+<shortName>W7SRZ</shortName>
+<longName>W7SRZ Seattle</longName>
+<frequency units="MHz">443.55</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="261">
+<shortName>K7FDF</shortName>
+<longName>K7FDF Renton</longName>
+<frequency units="MHz">443.6</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>103.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="262">
+<shortName>W7PSE</shortName>
+<longName>W7PSE Sumner</longName>
+<frequency units="MHz">443.625</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="263">
+<shortName>W7ACS</shortName>
+<longName>W7ACS Roosevelt </longName>
+<frequency units="MHz">443.65</frequency>
+<squelch id="rtone" type="repeater">
+<tone>141.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="264">
+<shortName>K7SKW</shortName>
+<longName>K7SKW King Mtn</longName>
+<frequency units="MHz">443.65</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="265">
+<shortName>W6TOZ</shortName>
+<longName>W6TOZ Tacoma</longName>
+<frequency units="MHz">443.675</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="266">
+<shortName>WA7EBH</shortName>
+<longName>WA7EBH Port Ange</longName>
+<frequency units="MHz">443.7</frequency>
+<squelch id="rtone" type="repeater">
+<tone>71.9</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="267">
+<shortName>WA7EBH</shortName>
+<longName>WA7EBH Cougar Mt</longName>
+<frequency units="MHz">443.7</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="268">
+<shortName>WA7DEM</shortName>
+<longName>WA7DEM Mountlake</longName>
+<frequency units="MHz">443.725</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>103.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="269">
+<shortName>K7SKW</shortName>
+<longName>K7SKW Lookout Mt</longName>
+<frequency units="MHz">443.75</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="270">
+<shortName>KG7CM</shortName>
+<longName>KG7CM Vashon Isl</longName>
+<frequency units="MHz">443.775</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="271">
+<shortName>KA7DNK</shortName>
+<longName>KA7DNK Raymond</longName>
+<frequency units="MHz">443.825</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="272">
+<shortName>N7WGR</shortName>
+<longName>N7WGR Port Towns</longName>
+<frequency units="MHz">443.825</frequency>
+<squelch id="rtone" type="repeater">
+<tone>88.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="273">
+<shortName>KA7VEE</shortName>
+<longName>KA7VEE Mt Vernon</longName>
+<frequency units="MHz">443.85</frequency>
+<squelch id="rtone" type="repeater">
+<tone>88.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>047</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>dtcs</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="274">
+<shortName>N7NFY</shortName>
+<longName>N7NFY Haystack M</longName>
+<frequency units="MHz">443.875</frequency>
+<squelch id="rtone" type="repeater">
+<tone>127.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="275">
+<shortName>W7UFI</shortName>
+<longName>W7UFI Darrington</longName>
+<frequency units="MHz">443.875</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="276">
+<shortName>W7FLY</shortName>
+<longName>W7FLY Everett</longName>
+<frequency units="MHz">443.925</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="277">
+<shortName>N7QOR</shortName>
+<longName>N7QOR Federal Wa</longName>
+<frequency units="MHz">443.95</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>103.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="278">
+<shortName>W7PFR</shortName>
+<longName>W7PFR Eatonville</longName>
+<frequency units="MHz">443.975</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="279">
+<shortName>K7SPG</shortName>
+<longName>K7SPG Seattle</longName>
+<frequency units="MHz">444</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="280">
+<shortName>WA7DEM</shortName>
+<longName>WA7DEM Edmonds</longName>
+<frequency units="MHz">444.025</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>103.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="281">
+<shortName>N7UJK</shortName>
+<longName>N7UJK Elma</longName>
+<frequency units="MHz">444.05</frequency>
+<squelch id="rtone" type="repeater">
+<tone>118.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="282">
+<shortName>K7SKW</shortName>
+<longName>K7SKW Mt Constit</longName>
+<frequency units="MHz">444.05</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="283">
+<shortName>W7SKY</shortName>
+<longName>W7SKY Sultan</longName>
+<frequency units="MHz">444.125</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="284">
+<shortName>WA7ROY</shortName>
+<longName>WA7ROY Roy</longName>
+<frequency units="MHz">444.175</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="285">
+<shortName>K7HW</shortName>
+<longName>K7HW Tacoma</longName>
+<frequency units="MHz">444.175</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="286">
+<shortName>W7EOC</shortName>
+<longName>W7EOC Ocean Shor</longName>
+<frequency units="MHz">444.2</frequency>
+<squelch id="rtone" type="repeater">
+<tone>118.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="287">
+<shortName>K7MLR</shortName>
+<longName>K7MLR Marysville</longName>
+<frequency units="MHz">444.2</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="288">
+<shortName>KC7LFW</shortName>
+<longName>KC7LFW West Seat</longName>
+<frequency units="MHz">444.225</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="289">
+<shortName>W7PSE</shortName>
+<longName>W7PSE Electron</longName>
+<frequency units="MHz">444.25</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="290">
+<shortName>AF7DX</shortName>
+<longName>AF7DX Sequim</longName>
+<frequency units="MHz">444.275</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="291">
+<shortName>WA7WKT</shortName>
+<longName>WA7WKT Buck Mtn</longName>
+<frequency units="MHz">444.3</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="292">
+<shortName>K7OET</shortName>
+<longName>K7OET Cougar Mtn</longName>
+<frequency units="MHz">444.325</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="293">
+<shortName>K7OET</shortName>
+<longName>K7OET Cultus Mtn</longName>
+<frequency units="MHz">444.35</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="294">
+<shortName>AJ7JA</shortName>
+<longName>AJ7JA Seattle</longName>
+<frequency units="MHz">444.375</frequency>
+<squelch id="rtone" type="repeater">
+<tone>88.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="295">
+<shortName>WA7ARC</shortName>
+<longName>WA7ARC Cosmopoli</longName>
+<frequency units="MHz">444.375</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="296">
+<shortName>NM7R</shortName>
+<longName>NM7R North Cove</longName>
+<frequency units="MHz">444.4</frequency>
+<squelch id="rtone" type="repeater">
+<tone>118.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="297">
+<shortName>WW7SEA</shortName>
+<longName>WW7SEA Seattle</longName>
+<frequency units="MHz">444.425</frequency>
+<squelch id="rtone" type="repeater">
+<tone>141.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="298">
+<shortName>KD7HTE</shortName>
+<longName>KD7HTE Baw Faw P</longName>
+<frequency units="MHz">444.45</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="299">
+<shortName>W7NPC</shortName>
+<longName>W7NPC Bainbridge</longName>
+<frequency units="MHz">444.475</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="300">
+<shortName>K7LJ</shortName>
+<longName>K7LJ Woodland</longName>
+<frequency units="MHz">444.475</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="301">
+<shortName>WA7ZUS</shortName>
+<longName>WA7ZUS Lyman Hil</longName>
+<frequency units="MHz">444.5</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="302">
+<shortName>N7KGJ</shortName>
+<longName>N7KGJ Squak Mtn</longName>
+<frequency units="MHz">444.525</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="303">
+<shortName>WW7SEA</shortName>
+<longName>WW7SEA Seattle</longName>
+<frequency units="MHz">444.55</frequency>
+<squelch id="rtone" type="repeater">
+<tone>141.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="304">
+<shortName>WA7LAW</shortName>
+<longName>WA7LAW Bakerview</longName>
+<frequency units="MHz">444.575</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>103.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="305">
+<shortName>K7LWH</shortName>
+<longName>K7LWH Bellevue</longName>
+<frequency units="MHz">444.6</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="306">
+<shortName>KA7DNK</shortName>
+<longName>KA7DNK Aberdeen</longName>
+<frequency units="MHz">444.6</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="307">
+<shortName>W6TOZ</shortName>
+<longName>W6TOZ Cultus Mtn</longName>
+<frequency units="MHz">444.625</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="308">
+<shortName>WA7HJR</shortName>
+<longName>WA7HJR Tiger Mtn</longName>
+<frequency units="MHz">444.65</frequency>
+<squelch id="rtone" type="repeater">
+<tone>131.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="309">
+<shortName>N7BUW</shortName>
+<longName>N7BUW Graham</longName>
+<frequency units="MHz">444.675</frequency>
+<squelch id="rtone" type="repeater">
+<tone>127.3</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="310">
+<shortName>N7BUW</shortName>
+<longName>N7BUW Three Sist</longName>
+<frequency units="MHz">444.675</frequency>
+<squelch id="rtone" type="repeater">
+<tone>136.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="311">
+<shortName>W7EOC</shortName>
+<longName>W7EOC Neilton Pe</longName>
+<frequency units="MHz">444.7</frequency>
+<squelch id="rtone" type="repeater">
+<tone>118.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="312">
+<shortName>WW7SEA</shortName>
+<longName>WW7SEA Seattle</longName>
+<frequency units="MHz">444.7</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="313">
+<shortName>KB7CNN</shortName>
+<longName>KB7CNN Tacoma</longName>
+<frequency units="MHz">444.75</frequency>
+<squelch id="rtone" type="repeater">
+<tone>192.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="314">
+<shortName>K7IDS</shortName>
+<longName>K7IDS Seattle</longName>
+<frequency units="MHz">444.775</frequency>
+<squelch id="rtone" type="repeater">
+<tone>173.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="315">
+<shortName>NM7R</shortName>
+<longName>NM7R Longbeach</longName>
+<frequency units="MHz">444.8</frequency>
+<squelch id="rtone" type="repeater">
+<tone>118.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>118.8</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="316">
+<shortName>W7USJ</shortName>
+<longName>W7USJ Baldi Mtn</longName>
+<frequency units="MHz">444.8</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="317">
+<shortName>W7SRZ</shortName>
+<longName>W7SRZ Northgate</longName>
+<frequency units="MHz">444.825</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="318">
+<shortName>N7UJK</shortName>
+<longName>N7UJK Aberdeen</longName>
+<frequency units="MHz">444.825</frequency>
+<squelch id="rtone" type="repeater">
+<tone>118.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="319">
+<shortName>W7DME</shortName>
+<longName>W7DME Cougar Mtn</longName>
+<frequency units="MHz">444.85</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="320">
+<shortName>AB7F</shortName>
+<longName>AB7F Randle</longName>
+<frequency units="MHz">444.875</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="321">
+<shortName>N7UIC</shortName>
+<longName>N7UIC Covington</longName>
+<frequency units="MHz">444.9</frequency>
+<squelch id="rtone" type="repeater">
+<tone>100</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>100</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="322">
+<shortName>K6MBY</shortName>
+<longName>K6MBY Sequim</longName>
+<frequency units="MHz">444.9</frequency>
+<squelch id="rtone" type="repeater">
+<tone>131.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="323">
+<shortName>W7DG</shortName>
+<longName>W7DG Longview</longName>
+<frequency units="MHz">444.9</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="324">
+<shortName>N7SNO</shortName>
+<longName>N7SNO Snoqualmie</longName>
+<frequency units="MHz">444.925</frequency>
+<squelch id="rtone" type="repeater">
+<tone>85.4</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="325">
+<shortName>NM7R</shortName>
+<longName>NM7R Chinook</longName>
+<frequency units="MHz">444.925</frequency>
+<squelch id="rtone" type="repeater">
+<tone>82.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="326">
+<shortName>W7EOC</shortName>
+<longName>W7EOC Capitol Pe</longName>
+<frequency units="MHz">444.95</frequency>
+<squelch id="rtone" type="repeater">
+<tone>118.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="327">
+<shortName>KD7GWM</shortName>
+<longName>KD7GWM Haystack </longName>
+<frequency units="MHz">444.975</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="328">
+<shortName>K7HRN</shortName>
+<longName>K7HRN Rooster Ro</longName>
+<frequency units="MHz">444.975</frequency>
+<squelch id="rtone" type="repeater">
+<tone>110.9</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>positive</duplex>
+<offset units="MHz">5</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="329">
+<shortName>W7UVH</shortName>
+<longName>W7UVH South Mtn</longName>
+<frequency units="MHz">927.25</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">25</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="330">
+<shortName>W7UVH</shortName>
+<longName>W7UVH Kalama</longName>
+<frequency units="MHz">927.275</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">25</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="331">
+<shortName>W7SIX</shortName>
+<longName>W7SIX Capitol Pe</longName>
+<frequency units="MHz">927.3</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">25</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="332">
+<shortName>K7MM</shortName>
+<longName>K7MM Port Orchar</longName>
+<frequency units="MHz">927.35</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">25</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="333">
+<shortName>W7BPD</shortName>
+<longName>W7BPD Blaine</longName>
+<frequency units="MHz">927.375</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">25</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="334">
+<shortName>WB0CZA</shortName>
+<longName>WB0CZA Buck Mtn</longName>
+<frequency units="MHz">927.4</frequency>
+<squelch id="rtone" type="repeater">
+<tone>123</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">25</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="335">
+<shortName>N7NFY</shortName>
+<longName>N7NFY Gold Mtn</longName>
+<frequency units="MHz">927.4125</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">25</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="336">
+<shortName>WA7ZWG</shortName>
+<longName>WA7ZWG Lookout M</longName>
+<frequency units="MHz">927.4875</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>114.8</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">25</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="337">
+<shortName>K7DNR</shortName>
+<longName>K7DNR Ashford</longName>
+<frequency units="MHz">927.525</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">25</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="338">
+<shortName>K7OET</shortName>
+<longName>K7OET Cultas Mtn</longName>
+<frequency units="MHz">927.55</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>114.8</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">25</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="339">
+<shortName>K7NP</shortName>
+<longName>K7NP University </longName>
+<frequency units="MHz">927.6</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">25</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="340">
+<shortName>K7TGU</shortName>
+<longName>K7TGU Tiger Mtn </longName>
+<frequency units="MHz">927.6</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">25</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="341">
+<shortName>W7AUX</shortName>
+<longName>W7AUX Shoreline</longName>
+<frequency units="MHz">927.6375</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">25</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="342">
+<shortName>KD7HTE</shortName>
+<longName>KD7HTE Tumwater</longName>
+<frequency units="MHz">927.75</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">25</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="343">
+<shortName>AA7ZV</shortName>
+<longName>AA7ZV Milton</longName>
+<frequency units="MHz">927.8</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">25</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="344">
+<shortName>N7NFY</shortName>
+<longName>N7NFY Rattlesnak</longName>
+<frequency units="MHz">927.8875</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">25</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="345">
+<shortName>K7CH</shortName>
+<longName>K7CH Baw Faw Pea</longName>
+<frequency units="MHz">927.925</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>114.8</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">25</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="346">
+<shortName>K7EK</shortName>
+<longName>K7EK Baldi Mtn</longName>
+<frequency units="MHz">927.95</frequency>
+<squelch id="rtone" type="repeater">
+<tone>114.8</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">25</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="347">
+<shortName>N7FYU</shortName>
+<longName>N7FYU Bellingham</longName>
+<frequency units="MHz">1290.95</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">20</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="348">
+<shortName>KB7CNN</shortName>
+<longName>KB7CNN Tiger Mtn</longName>
+<frequency units="MHz">1292.2</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">20</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="349">
+<shortName>N7FSP</shortName>
+<longName>N7FSP Baldi Mtn</longName>
+<frequency units="MHz">1292.3</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">20</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+<memory location="350">
+<shortName>KB7CNN</shortName>
+<longName>KB7CNN Tacoma</longName>
+<frequency units="MHz">1292.4</frequency>
+<squelch id="rtone" type="repeater">
+<tone>103.5</tone>
+</squelch>
+<squelch id="ctone" type="ctcss">
+<tone>88.5</tone>
+</squelch>
+<squelch id="dtcs" type="dtcs">
+<code>023</code>
+<polarity>NN</polarity>
+</squelch>
+<squelchSetting>rtone</squelchSetting>
+<duplex>negative</duplex>
+<offset units="MHz">20</offset>
+<mode>FM</mode>
+<tuningStep units="kHz">5.0</tuningStep>
+</memory>
+</memories>
+<banks/>
+</radio>
