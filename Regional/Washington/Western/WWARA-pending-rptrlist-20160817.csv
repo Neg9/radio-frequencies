@@ -1,4 +1,3 @@
-DATA_SPEC_VERSION=2015.2.2
 "FC_RECORD_ID","SOURCE","OUTPUT_FREQ","INPUT_FREQ","STATE","CITY","LOCALE","CALL","SPONSOR","CTCSS_IN","CTCSS_OUT","DCS_CDCSS","DTMF","LINK","FM_WIDE","FM_NARROW","DSTAR_DV","DSTAR_DD","DMR","DMR_COLOR_CODE","FUSION","FUSION_DSQ","P25_PHASE_1","P25_PHASE_2","P25_NAC","NXDN_DIGITAL","NXDN_MIXED","NXDN_RAN","ATV","DATV","RACES","ARES","WX","URL","LATITUDE","LONGITUDE","EXPIRATION_DATE","COMMENT"
 " 2050","WWARA","53.2900","51.5900","WA","West Seattle","SEATTLE","W7AW","West Seattle ARC","103.5","","","","","Y","N","N","N","N","","N","","N","N","","N","N","","N","N","N","N","N","http://www.westseattlearc.org","47.5405","-122.3777","",""
 " 2052","WWARA","53.3900","51.6900","WA","Ashford","PUGET SOUND","K7DNR","DNR ARC","100","103.5","","","","Y","N","N","N","N","","N","","N","N","","N","N","","N","N","N","N","N","","46.834028","-122.01733","",""
